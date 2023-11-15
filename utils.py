@@ -148,3 +148,10 @@ if __name__ == '__main__':
     pd.set_option('display.max_rows', 50)
     pd.set_option('display.max_columns', None)
     dataset_load("data/incidents.csv")
+
+
+def group_parties(x, parties=['Republican', 'Democrat', 'Other']):
+    if x in parties:
+        return x
+    else:
+        return 'Other'
