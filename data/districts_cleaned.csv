@@ -1,0 +1,1306 @@
+year,state,congressional_district,party,candidatevotes,totalvotes
+2014,Alabama,1,Republican,103758,152234
+2014,Alabama,2,Republican,113103,167952
+2014,Alabama,3,Republican,103558,156620
+2014,Alabama,4,Republican,132831,134752
+2014,Alabama,5,Republican,115338,154974
+2014,Alabama,6,Republican,135945,178449
+2014,Alabama,7,Democrat,133687,135899
+2014,Alaska,0,Republican,142572,279741
+2014,Arizona,1,Democrat,97391,185114
+2014,Arizona,2,Republican,109704,219351
+2014,Arizona,3,Democrat,58192,104428
+2014,Arizona,4,Republican,122560,175179
+2014,Arizona,5,Republican,124867,179463
+2014,Arizona,6,Republican,129578,199776
+2014,Arizona,7,Democrat,54235,72454
+2014,Arizona,8,Republican,128710,169776
+2014,Arizona,9,Democrat,88609,162062
+2014,Arkansas,1,Republican,124139,196256
+2014,Arkansas,2,Republican,123073,237330
+2014,Arkansas,3,Republican,151630,190935
+2014,Arkansas,4,Republican,110789,206131
+2014,California,1,Republican,132052,216372
+2014,California,2,Democrat,163124,217524
+2014,California,3,Democrat,79224,150260
+2014,California,4,Republican,126784,211134
+2014,California,5,Democrat,129613,171148
+2014,California,6,Democrat,97008,133456
+2014,California,7,Democrat,92521,183587
+2014,California,8,Republican,77480,114536
+2014,California,9,Democrat,63475,121204
+2014,California,10,Republican,70582,125705
+2014,California,11,Democrat,117502,174662
+2014,California,12,Democrat,160067,192264
+2014,California,13,Democrat,168491,190431
+2014,California,14,Democrat,114389,149146
+2014,California,15,Democrat,99756,142906
+2014,California,16,Democrat,46277,91220
+2014,California,17,Democrat,69561,134408
+2014,California,18,Democrat,133060,196386
+2014,California,19,Democrat,85888,127788
+2014,California,20,Democrat,106034,141044
+2014,California,21,Republican,45907,79377
+2014,California,22,Republican,96053,133342
+2014,California,23,Republican,100317,134043
+2014,California,24,Democrat,103228,198794
+2014,California,25,Republican,60847,114072
+2014,California,26,Democrat,87176,169829
+2014,California,27,Democrat,75728,127580
+2014,California,28,Democrat,91996,120264
+2014,California,29,Democrat,50096,67141
+2014,California,30,Democrat,86568,131883
+2014,California,31,Democrat,51622,99784
+2014,California,32,Democrat,50353,84406
+2014,California,33,Democrat,108331,183031
+2014,California,34,Democrat,44697,61621
+2014,California,35,Democrat,39502,62255
+2014,California,36,Democrat,72682,134139
+2014,California,37,Democrat,96787,114838
+2014,California,38,Democrat,58192,98480
+2014,California,39,Republican,91319,133225
+2014,California,40,Democrat,30208,49379
+2014,California,41,Democrat,46948,82884
+2014,California,42,Republican,74540,113390
+2014,California,43,Democrat,69681,98202
+2014,California,44,Democrat,59670,68862
+2014,California,45,Republican,106083,162902
+2014,California,46,Democrat,49738,83315
+2014,California,47,Democrat,69091,123400
+2014,California,48,Republican,112082,174795
+2014,California,49,Republican,98161,163142
+2014,California,50,Republican,111997,157299
+2014,California,51,Democrat,56373,81950
+2014,California,52,Democrat,98826,191572
+2014,California,53,Democrat,87104,148044
+2014,Colorado,1,Democrat,183281,278494
+2014,Colorado,2,Democrat,196300,345945
+2014,Colorado,3,Republican,163011,281141
+2014,Colorado,4,Republican,185292,286507
+2014,Colorado,5,Republican,157182,262855
+2014,Colorado,6,Republican,143467,276440
+2014,Colorado,7,Democrat,148225,269143
+2014,Connecticut,1,Democrat,127430,217881
+2014,Connecticut,2,Democrat,131294,227936
+2014,Connecticut,3,Democrat,130009,209939
+2014,Connecticut,4,Democrat,101401,198800
+2014,Connecticut,5,Democrat,106256,213301
+2014,Delaware,0,Democrat,137251,231617
+2014,Florida,1,Republican,165086,235343
+2014,Florida,2,Democrat,126096,249780
+2014,Florida,3,Republican,148691,228809
+2014,Florida,4,Republican,177887,227253
+2014,Florida,5,Democrat,112340,171577
+2014,Florida,6,Republican,166254,265817
+2014,Florida,7,Republican,144474,227164
+2014,Florida,8,Republican,180728,274513
+2014,Florida,9,Democrat,93850,173878
+2014,Florida,10,Republican,143128,232574
+2014,Florida,11,Republican,181508,272294
+2014,Florida,12,Republican,1,1
+2014,Florida,13,Republican,168172,223576
+2014,Florida,14,Democrat,1,1
+2014,Florida,15,Republican,128750,213582
+2014,Florida,16,Republican,169126,274829
+2014,Florida,17,Republican,141493,223756
+2014,Florida,18,Democrat,151478,253374
+2014,Florida,19,Republican,159354,246861
+2014,Florida,20,Democrat,128498,157466
+2014,Florida,21,Democrat,153395,153970
+2014,Florida,22,Democrat,125404,216096
+2014,Florida,23,Democrat,103269,164788
+2014,Florida,24,Democrat,129192,149918
+2014,Florida,25,Republican,1,1
+2014,Florida,26,Republican,83031,161337
+2014,Florida,27,Republican,1,1
+2014,Georgia,1,Republican,95337,156512
+2014,Georgia,2,Democrat,96363,162900
+2014,Georgia,3,Republican,156277,156277
+2014,Georgia,4,Democrat,161211,161320
+2014,Georgia,5,Democrat,170326,170326
+2014,Georgia,6,Republican,139018,210504
+2014,Georgia,7,Republican,113557,173669
+2014,Georgia,8,Republican,129938,130057
+2014,Georgia,9,Republican,146059,181047
+2014,Georgia,10,Republican,130703,196480
+2014,Georgia,11,Republican,161532,161532
+2014,Georgia,12,Republican,91336,166814
+2014,Georgia,13,Democrat,159445,159445
+2014,Georgia,14,Republican,118782,118782
+2014,Hawaii,1,Democrat,93390,182268
+2014,Hawaii,2,Democrat,142010,187435
+2014,Idaho,1,Republican,143580,220864
+2014,Idaho,2,Republican,131492,214293
+2014,Illinois,1,Democrat,162268,222017
+2014,Illinois,2,Democrat,160337,204266
+2014,Illinois,3,Democrat,116764,180855
+2014,Illinois,4,Democrat,79666,101944
+2014,Illinois,5,Democrat,116364,184019
+2014,Illinois,6,Republican,160287,238752
+2014,Illinois,7,Democrat,155110,182278
+2014,Illinois,8,Democrat,84178,151056
+2014,Illinois,9,Democrat,141000,213450
+2014,Illinois,10,Republican,95992,187128
+2014,Illinois,11,Democrat,93436,174772
+2014,Illinois,12,Republican,110038,209738
+2014,Illinois,13,Republican,123337,210272
+2014,Illinois,14,Republican,145369,222230
+2014,Illinois,15,Republican,166274,221926
+2014,Illinois,16,Republican,153388,217198
+2014,Illinois,17,Democrat,110560,199361
+2014,Illinois,18,Republican,184363,246740
+2014,Indiana,1,Democrat,86579,142293
+2014,Indiana,2,Republican,85583,145200
+2014,Indiana,3,Republican,97892,148793
+2014,Indiana,4,Republican,94998,142054
+2014,Indiana,5,Republican,105277,161440
+2014,Indiana,6,Republican,102187,155071
+2014,Indiana,7,Democrat,61443,112261
+2014,Indiana,8,Republican,103344,171315
+2014,Indiana,9,Republican,101594,163387
+2014,Iowa,1,Republican,147762,289306
+2014,Iowa,2,Democrat,143431,273329
+2014,Iowa,3,Republican,148814,282066
+2014,Iowa,4,Republican,169834,275633
+2014,Kansas,1,Republican,138764,204161
+2014,Kansas,2,Republican,128742,225686
+2014,Kansas,3,Republican,134493,224077
+2014,Kansas,4,Republican,138757,208153
+2014,Kentucky,1,Republican,173022,236618
+2014,Kentucky,2,Republican,156936,226834
+2014,Kentucky,3,Democrat,157056,247355
+2014,Kentucky,4,Republican,150464,222158
+2014,Kentucky,5,Republican,171350,218967
+2014,Kentucky,6,Republican,147404,245694
+2014,Louisiana,1,Republican,189250,244004
+2014,Louisiana,2,Democrat,152201,221570
+2014,Louisiana,3,Republican,185867,236268
+2014,Louisiana,4,Republican,152683,207919
+2014,Louisiana,5,Republican,134616,326073
+2014,Louisiana,6,Republican,139209,332888
+2014,Maine,1,Democrat,186674,321987
+2014,Maine,2,Republican,133320,295009
+2014,Maryland,1,Republican,176342,250418
+2014,Maryland,2,Democrat,120412,196354
+2014,Maryland,3,Democrat,128594,215946
+2014,Maryland,4,Democrat,134628,191837
+2014,Maryland,5,Democrat,144725,226040
+2014,Maryland,6,Democrat,94704,190536
+2014,Maryland,7,Democrat,144639,206809
+2014,Maryland,8,Democrat,136722,225097
+2014,Massachusetts,1,Democrat,167612,227075
+2014,Massachusetts,2,Democrat,169640,235813
+2014,Massachusetts,3,Democrat,139104,230789
+2014,Massachusetts,4,Democrat,184158,255297
+2014,Massachusetts,5,Democrat,182100,256486
+2014,Massachusetts,6,Democrat,149638,278919
+2014,Massachusetts,7,Democrat,142133,176077
+2014,Massachusetts,8,Democrat,200644,261781
+2014,Massachusetts,9,Democrat,140413,264552
+2014,Michigan,1,Republican,130414,250131
+2014,Michigan,2,Republican,135568,213072
+2014,Michigan,3,Republican,125754,217165
+2014,Michigan,4,Republican,123962,219423
+2014,Michigan,5,Democrat,148182,222138
+2014,Michigan,6,Republican,116801,208976
+2014,Michigan,7,Republican,119564,223685
+2014,Michigan,8,Republican,132739,243125
+2014,Michigan,9,Democrat,136342,225757
+2014,Michigan,10,Republican,157069,228692
+2014,Michigan,11,Republican,140435,251238
+2014,Michigan,12,Democrat,134346,206660
+2014,Michigan,13,Democrat,132710,166947
+2014,Michigan,14,Democrat,165272,212468
+2014,Minnesota,1,Other,122851,226695
+2014,Minnesota,2,Republican,137778,245848
+2014,Minnesota,3,Republican,167515,269585
+2014,Minnesota,4,Other,147857,241637
+2014,Minnesota,5,Democrat,167079,236010
+2014,Minnesota,6,Republican,133328,236846
+2014,Minnesota,7,Other,130546,240835
+2014,Minnesota,8,Democrat,129090,266083
+2014,Mississippi,1,Republican,102622,151111
+2014,Mississippi,2,Democrat,100688,148646
+2014,Mississippi,3,Republican,117771,170946
+2014,Mississippi,4,Republican,108776,155576
+2014,Missouri,1,Democrat,119315,163494
+2014,Missouri,2,Republican,148191,231117
+2014,Missouri,3,Republican,130940,191620
+2014,Missouri,4,Republican,120014,176286
+2014,Missouri,5,Democrat,79256,153635
+2014,Missouri,6,Republican,124616,186970
+2014,Missouri,7,Republican,104054,163957
+2014,Missouri,8,Republican,106124,159224
+2014,Montana,0,Republican,203871,367963
+2014,Nebraska,1,Republican,123219,179057
+2014,Nebraska,2,Democrat,83872,171509
+2014,Nebraska,3,Republican,139440,184964
+2014,Nevada,1,Democrat,45643,80299
+2014,Nevada,2,Republican,122402,186210
+2014,Nevada,3,Republican,88528,145719
+2014,Nevada,4,Republican,63466,130781
+2014,New Hampshire,1,Republican,125508,242736
+2014,New Hampshire,2,Democrat,130700,238184
+2014,New Jersey,1,Democrat,93315,162492
+2014,New Jersey,2,Republican,108875,177148
+2014,New Jersey,3,Republican,100471,186103
+2014,New Jersey,4,Republican,118826,174849
+2014,New Jersey,5,Republican,104678,188921
+2014,New Jersey,6,Democrat,72190,120457
+2014,New Jersey,7,Republican,104287,175997
+2014,New Jersey,8,Democrat,61510,79518
+2014,New Jersey,9,Democrat,82498,120459
+2014,New Jersey,10,Democrat,95734,112123
+2014,New Jersey,11,Republican,109455,174932
+2014,New Jersey,12,Democrat,90430,148366
+2014,New Mexico,1,Democrat,105474,180032
+2014,New Mexico,2,Republican,95209,147777
+2014,New Mexico,3,Democrat,113249,184076
+2014,New York,1,Republican,77062,176719
+2014,New York,2,Republican,76659,146617
+2014,New York,3,Democrat,80393,171163
+2014,New York,4,Democrat,83772,175305
+2014,New York,5,Democrat,75712,94400
+2014,New York,6,Democrat,49227,77306
+2014,New York,7,Democrat,47142,68522
+2014,New York,8,Democrat,70469,95113
+2014,New York,9,Democrat,70997,101606
+2014,New York,10,Democrat,73945,113226
+2014,New York,11,Republican,48291,110999
+2014,New York,12,Democrat,78440,117420
+2014,New York,13,Democrat,63437,91834
+2014,New York,14,Democrat,45370,67372
+2014,New York,15,Democrat,53128,61268
+2014,New York,16,Democrat,90088,138655
+2014,New York,17,Democrat,89295,181674
+2014,New York,18,Democrat,76235,186715
+2014,New York,19,Republican,102118,210351
+2014,New York,20,Democrat,103437,211965
+2014,New York,21,Republican,79615,181558
+2014,New York,22,Republican,113574,175372
+2014,New York,23,Republican,94375,190554
+2014,New York,24,Republican,93881,203417
+2014,New York,25,Democrat,87264,196516
+2014,New York,26,Democrat,100648,173911
+2014,New York,27,Republican,109171,215147
+2014,North Carolina,1,Democrat,154333,210323
+2014,North Carolina,2,Republican,122128,207607
+2014,North Carolina,3,Republican,139415,205597
+2014,North Carolina,4,Democrat,169946,227362
+2014,North Carolina,5,Republican,139279,228252
+2014,North Carolina,6,Republican,147312,251070
+2014,North Carolina,7,Republican,134431,226504
+2014,North Carolina,8,Republican,121568,187422
+2014,North Carolina,9,Republican,163080,173668
+2014,North Carolina,10,Republican,133504,218796
+2014,North Carolina,11,Republican,144682,230024
+2014,North Carolina,12,Democrat,130096,172664
+2014,North Carolina,13,Republican,153991,268709
+2014,North Dakota,0,Republican,138100,248670
+2014,Ohio,1,Republican,124779,197383
+2014,Ohio,2,Republican,132658,201111
+2014,Ohio,3,Democrat,91769,143261
+2014,Ohio,4,Republican,125907,186072
+2014,Ohio,5,Republican,134449,202300
+2014,Ohio,6,Republican,111026,190652
+2014,Ohio,7,Republican,143959,143959
+2014,Ohio,8,Republican,126539,188330
+2014,Ohio,9,Democrat,108870,160715
+2014,Ohio,10,Republican,130752,200606
+2014,Ohio,11,Democrat,137105,172566
+2014,Ohio,12,Republican,150573,221081
+2014,Ohio,13,Democrat,120230,175549
+2014,Ohio,14,Republican,135736,214580
+2014,Ohio,15,Republican,128496,194621
+2014,Ohio,16,Republican,132176,207375
+2014,Oklahoma,1,Republican,1,1
+2014,Oklahoma,2,Republican,110925,158407
+2014,Oklahoma,3,Republican,133335,169605
+2014,Oklahoma,4,Republican,117721,166268
+2014,Oklahoma,5,Republican,95632,159133
+2014,Oregon,1,Democrat,160038,279253
+2014,Oregon,2,Republican,202374,287425
+2014,Oregon,3,Democrat,211748,292757
+2014,Oregon,4,Democrat,181624,310179
+2014,Oregon,5,Democrat,150944,281088
+2014,Pennsylvania,1,Democrat,131248,158441
+2014,Pennsylvania,2,Democrat,181141,206538
+2014,Pennsylvania,3,Republican,113859,187790
+2014,Pennsylvania,4,Republican,147090,197340
+2014,Pennsylvania,5,Republican,115018,180857
+2014,Pennsylvania,6,Republican,119643,212544
+2014,Pennsylvania,7,Republican,145869,235125
+2014,Pennsylvania,8,Republican,137731,222498
+2014,Pennsylvania,9,Republican,110094,173317
+2014,Pennsylvania,10,Republican,112851,180322
+2014,Pennsylvania,11,Republican,122464,184692
+2014,Pennsylvania,12,Republican,127993,215921
+2014,Pennsylvania,13,Democrat,123601,184150
+2014,Pennsylvania,14,Democrat,148351,148351
+2014,Pennsylvania,15,Republican,128285,128285
+2014,Pennsylvania,16,Republican,101722,176235
+2014,Pennsylvania,17,Democrat,93680,165051
+2014,Pennsylvania,18,Republican,166076,166076
+2014,Rhode Island,1,Democrat,87060,146353
+2014,Rhode Island,2,Democrat,105716,169904
+2014,South Carolina,1,Republican,119392,127815
+2014,South Carolina,2,Republican,121649,194808
+2014,South Carolina,3,Republican,116741,164009
+2014,South Carolina,4,Republican,126452,149049
+2014,South Carolina,5,Republican,103078,175145
+2014,South Carolina,6,Democrat,125747,173432
+2014,South Carolina,7,Republican,102833,171524
+2014,South Dakota,0,Republican,183834,276319
+2014,Tennessee,1,Republican,115533,139470
+2014,Tennessee,2,Republican,120883,166751
+2014,Tennessee,3,Republican,97344,156097
+2014,Tennessee,4,Republican,84815,145418
+2014,Tennessee,5,Democrat,96148,154276
+2014,Tennessee,6,Republican,115231,162097
+2014,Tennessee,7,Republican,110534,157907
+2014,Tennessee,8,Republican,122255,172595
+2014,Tennessee,9,Democrat,87376,116550
+2014,Texas,1,Republican,115084,148560
+2014,Texas,2,Republican,101936,150026
+2014,Texas,3,Republican,113404,138280
+2014,Texas,4,Republican,115085,115085
+2014,Texas,5,Republican,88998,104262
+2014,Texas,6,Republican,92334,150996
+2014,Texas,7,Republican,90606,143219
+2014,Texas,8,Republican,125066,140013
+2014,Texas,9,Democrat,78109,86003
+2014,Texas,10,Republican,109726,176460
+2014,Texas,11,Republican,107939,119574
+2014,Texas,12,Republican,113186,158730
+2014,Texas,13,Republican,110842,131451
+2014,Texas,14,Republican,90116,145698
+2014,Texas,15,Democrat,48708,90184
+2014,Texas,16,Democrat,49338,73105
+2014,Texas,17,Republican,85807,132865
+2014,Texas,18,Democrat,76097,106010
+2014,Texas,19,Republican,90160,116818
+2014,Texas,20,Democrat,66554,87964
+2014,Texas,21,Republican,135660,188996
+2014,Texas,22,Republican,100861,151566
+2014,Texas,23,Republican,57459,115429
+2014,Texas,24,Republican,93712,144073
+2014,Texas,25,Republican,107120,177883
+2014,Texas,26,Republican,116944,141470
+2014,Texas,27,Republican,83342,131047
+2014,Texas,28,Democrat,62508,76136
+2014,Texas,29,Democrat,41321,46143
+2014,Texas,30,Democrat,93041,105793
+2014,Texas,31,Republican,91607,143028
+2014,Texas,32,Republican,96495,156096
+2014,Texas,33,Democrat,43769,50592
+2014,Texas,34,Democrat,47503,79877
+2014,Texas,35,Democrat,60124,96225
+2014,Texas,36,Republican,101663,133842
+2014,Utah,1,Republican,84231,130034
+2014,Utah,2,Republican,88915,146188
+2014,Utah,3,Republican,102952,142580
+2014,Utah,4,Republican,74936,147168
+2014,Vermont,0,Democrat,123349,191504
+2014,Virginia,1,Republican,131861,209621
+2014,Virginia,2,Republican,101558,173060
+2014,Virginia,3,Democrat,139197,147402
+2014,Virginia,4,Republican,120684,200638
+2014,Virginia,5,Republican,124735,204945
+2014,Virginia,6,Republican,133898,179708
+2014,Virginia,7,Republican,148026,243351
+2014,Virginia,8,Democrat,128102,203076
+2014,Virginia,9,Republican,117465,162815
+2014,Virginia,10,Republican,125914,222910
+2014,Virginia,11,Democrat,106780,187805
+2014,Washington,1,Democrat,124151,225579
+2014,Washington,2,Democrat,122173,201691
+2014,Washington,3,Republican,124796,202814
+2014,Washington,4,Republican,77772,153079
+2014,Washington,5,Republican,135470,223242
+2014,Washington,6,Democrat,141265,224290
+2014,Washington,7,Democrat,203954,251875
+2014,Washington,8,Republican,125741,198744
+2014,Washington,9,Democrat,118132,166794
+2014,Washington,10,Democrat,99279,181492
+2014,West Virginia,1,Republican,92491,144737
+2014,West Virginia,2,Republican,72619,154250
+2014,West Virginia,3,Republican,77713,140401
+2014,Wisconsin,1,Republican,182316,288170
+2014,Wisconsin,2,Democrat,224920,328847
+2014,Wisconsin,3,Democrat,155368,275161
+2014,Wisconsin,4,Democrat,179045,254892
+2014,Wisconsin,5,Republican,231160,332826
+2014,Wisconsin,6,Republican,169767,299033
+2014,Wisconsin,7,Republican,169891,286603
+2014,Wisconsin,8,Republican,188553,290048
+2014,Wyoming,0,Republican,113038,171153
+2016,Alabama,1,Republican,208083,215893
+2016,Alabama,2,Republican,134886,276584
+2016,Alabama,3,Republican,192164,287104
+2016,Alabama,4,Republican,235925,239444
+2016,Alabama,5,Republican,205647,308326
+2016,Alabama,6,Republican,245313,329306
+2016,Alabama,7,Democrat,229330,233028
+2016,Alaska,0,Republican,155088,308198
+2016,Arizona,1,Democrat,142219,280710
+2016,Arizona,2,Republican,179806,315679
+2016,Arizona,3,Democrat,148973,151035
+2016,Arizona,4,Republican,203487,284783
+2016,Arizona,5,Republican,205184,320124
+2016,Arizona,6,Republican,201578,324444
+2016,Arizona,7,Democrat,119465,158811
+2016,Arizona,8,Republican,204942,298971
+2016,Arizona,9,Democrat,169055,277507
+2016,Arkansas,1,Republican,183866,241047
+2016,Arkansas,2,Republican,176472,302464
+2016,Arkansas,3,Republican,217192,280907
+2016,Arkansas,4,Republican,182885,244159
+2016,California,1,Republican,185448,314036
+2016,California,2,Democrat,254194,330766
+2016,California,3,Democrat,152513,256966
+2016,California,4,Republican,220133,350978
+2016,California,5,Democrat,224526,292091
+2016,California,6,Democrat,177565,235413
+2016,California,7,Democrat,152133,297301
+2016,California,8,Republican,136972,220007
+2016,California,9,Democrat,133163,232155
+2016,California,10,Republican,124671,241141
+2016,California,11,Democrat,214868,298209
+2016,California,12,Democrat,274035,338845
+2016,California,13,Democrat,293117,322871
+2016,California,14,Democrat,231630,286447
+2016,California,15,Democrat,198578,269197
+2016,California,16,Democrat,97473,167956
+2016,California,17,Democrat,142268,233192
+2016,California,18,Democrat,230460,323930
+2016,California,19,Democrat,181802,245863
+2016,California,20,Democrat,180980,255791
+2016,California,21,Republican,75126,132408
+2016,California,22,Republican,158755,234966
+2016,California,23,Republican,167116,241584
+2016,California,24,Democrat,166034,310814
+2016,California,25,Republican,138755,261161
+2016,California,26,Democrat,169248,280307
+2016,California,27,Democrat,168977,250632
+2016,California,28,Democrat,210883,270409
+2016,California,29,Democrat,128407,171824
+2016,California,30,Democrat,205279,282604
+2016,California,31,Democrat,121070,215936
+2016,California,32,Democrat,114926,186646
+2016,California,33,Democrat,219397,330219
+2016,California,34,Democrat,122842,159156
+2016,California,35,Democrat,124044,171353
+2016,California,36,Democrat,144348,232617
+2016,California,37,Democrat,192490,237272
+2016,California,38,Democrat,163590,232114
+2016,California,39,Republican,150777,263456
+2016,California,40,Democrat,106554,149297
+2016,California,41,Democrat,128164,197323
+2016,California,42,Republican,149547,254236
+2016,California,43,Democrat,167017,219516
+2016,California,44,Democrat,93124,178413
+2016,California,45,Republican,182618,311849
+2016,California,46,Democrat,115248,164593
+2016,California,47,Democrat,154759,242868
+2016,California,48,Republican,178701,306416
+2016,California,49,Republican,155888,310155
+2016,California,50,Republican,179937,283583
+2016,California,51,Democrat,145162,199524
+2016,California,52,Democrat,181253,320656
+2016,California,53,Democrat,198988,296956
+2016,Colorado,1,Democrat,257254,379036
+2016,Colorado,2,Democrat,260175,457312
+2016,Colorado,3,Republican,204220,374037
+2016,Colorado,4,Republican,248230,390633
+2016,Colorado,5,Republican,225445,361993
+2016,Colorado,6,Republican,191626,376417
+2016,Colorado,7,Democrat,199758,362010
+2016,Connecticut,1,Democrat,187021,312925
+2016,Connecticut,2,Democrat,186210,330257
+2016,Connecticut,3,Democrat,192274,309379
+2016,Connecticut,4,Democrat,187811,313540
+2016,Connecticut,5,Democrat,163499,309082
+2016,Delaware,0,Democrat,233554,420617
+2016,Florida,1,Republican,255107,369186
+2016,Florida,2,Republican,231163,343362
+2016,Florida,3,Republican,193843,342700
+2016,Florida,4,Republican,287509,409662
+2016,Florida,5,Democrat,194549,302874
+2016,Florida,6,Republican,213519,364570
+2016,Florida,7,Democrat,182039,353655
+2016,Florida,8,Republican,246483,390561
+2016,Florida,9,Democrat,195311,339761
+2016,Florida,10,Democrat,198491,305989
+2016,Florida,11,Republican,258016,394719
+2016,Florida,12,Republican,253559,369669
+2016,Florida,13,Democrat,184693,355842
+2016,Florida,14,Democrat,195789,316877
+2016,Florida,15,Republican,182999,318474
+2016,Florida,16,Republican,230654,385916
+2016,Florida,17,Republican,209348,338675
+2016,Florida,18,Republican,201488,375918
+2016,Florida,19,Republican,239225,363166
+2016,Florida,20,Democrat,222914,277560
+2016,Florida,21,Democrat,210606,335861
+2016,Florida,22,Democrat,199113,337850
+2016,Florida,23,Democrat,183225,323120
+2016,Florida,24,Democrat,0,0
+2016,Florida,25,Republican,157921,253240
+2016,Florida,26,Republican,148547,280542
+2016,Florida,27,Republican,157917,287677
+2016,Georgia,1,Republican,210243,211112
+2016,Georgia,2,Democrat,148543,242599
+2016,Georgia,3,Republican,207218,303187
+2016,Georgia,4,Democrat,220146,290739
+2016,Georgia,5,Democrat,253781,300549
+2016,Georgia,6,Republican,201088,326005
+2016,Georgia,7,Republican,174081,288301
+2016,Georgia,8,Republican,173983,257208
+2016,Georgia,9,Republican,256535,256535
+2016,Georgia,10,Republican,243725,244821
+2016,Georgia,11,Republican,217935,323318
+2016,Georgia,12,Republican,159492,258912
+2016,Georgia,13,Democrat,252833,252833
+2016,Georgia,14,Republican,216743,216743
+2016,Hawaii,1,Democrat,145417,213531
+2016,Hawaii,2,Democrat,170848,224133
+2016,Idaho,1,Republican,242252,355357
+2016,Idaho,2,Republican,205292,326237
+2016,Illinois,1,Democrat,234037,315862
+2016,Illinois,2,Democrat,235051,294522
+2016,Illinois,3,Democrat,225320,225411
+2016,Illinois,4,Democrat,171297,171297
+2016,Illinois,5,Democrat,212842,313724
+2016,Illinois,6,Republican,208555,352146
+2016,Illinois,7,Democrat,250584,297466
+2016,Illinois,8,Democrat,144954,248571
+2016,Illinois,9,Democrat,217306,326948
+2016,Illinois,10,Democrat,150435,285996
+2016,Illinois,11,Democrat,166578,275573
+2016,Illinois,12,Republican,169976,313002
+2016,Illinois,13,Republican,187583,314394
+2016,Illinois,14,Republican,200508,338097
+2016,Illinois,15,Republican,274554,274554
+2016,Illinois,16,Republican,259722,259853
+2016,Illinois,17,Democrat,173125,287068
+2016,Illinois,18,Republican,250506,347283
+2016,Indiana,1,Democrat,207515,254583
+2016,Indiana,2,Republican,164355,277357
+2016,Indiana,3,Republican,201396,287247
+2016,Indiana,4,Republican,193412,299434
+2016,Indiana,5,Republican,221957,361135
+2016,Indiana,6,Republican,204920,296385
+2016,Indiana,7,Democrat,158739,264670
+2016,Indiana,8,Republican,187702,294713
+2016,Indiana,9,Republican,174791,322843
+2016,Iowa,1,Republican,206903,384977
+2016,Iowa,2,Democrat,198571,370032
+2016,Iowa,3,Republican,208598,390287
+2016,Iowa,4,Republican,226719,370259
+2016,Kansas,1,Republican,169992,257971
+2016,Kansas,2,Republican,181228,297401
+2016,Kansas,3,Republican,176022,343113
+2016,Kansas,4,Republican,166998,275251
+2016,Kentucky,1,Republican,216959,299001
+2016,Kentucky,2,Republican,251825,251825
+2016,Kentucky,3,Democrat,212401,334494
+2016,Kentucky,4,Republican,233922,327987
+2016,Kentucky,5,Republican,221242,221242
+2016,Kentucky,6,Republican,202099,330827
+2016,Louisiana,1,Republican,243645,326788
+2016,Louisiana,2,Democrat,198289,284269
+2016,Louisiana,3,Republican,77671,282443
+2016,Louisiana,4,Republican,87370,268761
+2016,Louisiana,5,Republican,208545,255662
+2016,Louisiana,6,Republican,207483,331098
+2016,Maine,1,Democrat,227546,406942
+2016,Maine,2,Republican,192878,364886
+2016,Maryland,1,Republican,242574,362097
+2016,Maryland,2,Democrat,192183,309480
+2016,Maryland,3,Democrat,214640,339675
+2016,Maryland,4,Democrat,237501,320650
+2016,Maryland,5,Democrat,242989,360634
+2016,Maryland,6,Democrat,185770,331973
+2016,Maryland,7,Democrat,238838,318912
+2016,Maryland,8,Democrat,220657,364324
+2016,Massachusetts,1,Democrat,235803,349676
+2016,Massachusetts,2,Democrat,275487,363197
+2016,Massachusetts,3,Democrat,236713,360124
+2016,Massachusetts,4,Democrat,265823,395304
+2016,Massachusetts,5,Democrat,285606,385455
+2016,Massachusetts,6,Democrat,308923,415749
+2016,Massachusetts,7,Democrat,253354,309645
+2016,Massachusetts,8,Democrat,271019,396009
+2016,Massachusetts,9,Democrat,211790,403642
+2016,Michigan,1,Republican,197777,360271
+2016,Michigan,2,Republican,212508,339328
+2016,Michigan,3,Republican,203545,342365
+2016,Michigan,4,Republican,194572,315751
+2016,Michigan,5,Democrat,195279,319291
+2016,Michigan,6,Republican,193259,329565
+2016,Michigan,7,Republican,184321,334807
+2016,Michigan,8,Republican,205629,366968
+2016,Michigan,9,Democrat,199661,344775
+2016,Michigan,10,Republican,215132,340983
+2016,Michigan,11,Republican,200872,379488
+2016,Michigan,12,Democrat,211378,328542
+2016,Michigan,13,Democrat,198771,257797
+2016,Michigan,14,Democrat,244135,310974
+2016,Minnesota,1,Democrat,169071,335873
+2016,Minnesota,2,Republican,173970,370515
+2016,Minnesota,3,Republican,223075,393457
+2016,Minnesota,4,Democrat,203299,351945
+2016,Minnesota,5,Democrat,249957,361875
+2016,Minnesota,6,Republican,235385,358930
+2016,Minnesota,7,Democrat,173572,330823
+2016,Minnesota,8,Democrat,179097,356971
+2016,Mississippi,1,Republican,206455,300423
+2016,Mississippi,2,Democrat,192343,286626
+2016,Mississippi,3,Republican,209490,316445
+2016,Mississippi,4,Republican,181323,278779
+2016,Missouri,1,Democrat,236993,314024
+2016,Missouri,2,Republican,241954,413296
+2016,Missouri,3,Republican,249865,368333
+2016,Missouri,4,Republican,225348,332234
+2016,Missouri,5,Democrat,190766,324270
+2016,Missouri,6,Republican,238388,350444
+2016,Missouri,7,Republican,228692,338607
+2016,Missouri,8,Republican,229792,308871
+2016,Montana,0,Republican,285358,507831
+2016,Nebraska,1,Republican,189771,273238
+2016,Nebraska,2,Republican,141066,288308
+2016,Nebraska,3,Republican,226720,226720
+2016,Nevada,1,Democrat,116537,188352
+2016,Nevada,2,Republican,182676,313336
+2016,Nevada,3,Democrat,146869,310963
+2016,Nevada,4,Democrat,128985,265846
+2016,New Hampshire,1,Democrat,162080,365984
+2016,New Hampshire,2,Democrat,174371,350509
+2016,New Jersey,1,Democrat,183231,305473
+2016,New Jersey,2,Republican,176338,297795
+2016,New Jersey,3,Republican,194596,328060
+2016,New Jersey,4,Republican,211992,332684
+2016,New Jersey,5,Democrat,172587,337701
+2016,New Jersey,6,Democrat,167895,263435
+2016,New Jersey,7,Republican,185850,343635
+2016,New Jersey,8,Democrat,134733,174889
+2016,New Jersey,9,Democrat,162642,233242
+2016,New Jersey,10,Democrat,190856,222771
+2016,New Jersey,11,Republican,194299,334992
+2016,New Jersey,12,Democrat,181430,288634
+2016,New Mexico,1,Democrat,181088,277967
+2016,New Mexico,2,Republican,143515,228817
+2016,New Mexico,3,Democrat,170612,273342
+2016,New York,1,Republican,158409,341554
+2016,New York,2,Republican,157571,317552
+2016,New York,3,Democrat,171775,350966
+2016,New York,4,Democrat,181861,343179
+2016,New York,5,Democrat,197852,249236
+2016,New York,6,Democrat,131463,210378
+2016,New York,7,Democrat,165819,206983
+2016,New York,8,Democrat,203235,257602
+2016,New York,9,Democrat,198886,256853
+2016,New York,10,Democrat,180117,266516
+2016,New York,11,Republican,122606,251718
+2016,New York,12,Democrat,230153,312289
+2016,New York,13,Democrat,207194,255239
+2016,New York,14,Democrat,138367,197301
+2016,New York,15,Democrat,165688,193703
+2016,New York,16,Democrat,198811,287556
+2016,New York,17,Democrat,193819,325571
+2016,New York,18,Democrat,140951,319123
+2016,New York,19,Republican,135905,326588
+2016,New York,20,Democrat,188428,332499
+2016,New York,21,Republican,152597,288611
+2016,New York,22,Republican,113287,296086
+2016,New York,23,Republican,136964,296198
+2016,New York,24,Republican,150330,315429
+2016,New York,25,Democrat,168660,336386
+2016,New York,26,Democrat,195322,310819
+2016,New York,27,Republican,175509,354426
+2016,North Carolina,1,Democrat,240661,350699
+2016,North Carolina,2,Republican,221485,390567
+2016,North Carolina,3,Republican,217531,323701
+2016,North Carolina,4,Democrat,279380,409541
+2016,North Carolina,5,Republican,207625,355512
+2016,North Carolina,6,Republican,207983,351150
+2016,North Carolina,7,Republican,211801,347706
+2016,North Carolina,8,Republican,189863,323045
+2016,North Carolina,9,Republican,193452,332493
+2016,North Carolina,10,Republican,220825,349744
+2016,North Carolina,11,Republican,230405,359508
+2016,North Carolina,12,Democrat,234115,349300
+2016,North Carolina,13,Republican,199443,355492
+2016,North Dakota,0,Republican,233980,338459
+2016,Ohio,1,Republican,210014,354788
+2016,Ohio,2,Republican,221193,340279
+2016,Ohio,3,Democrat,199791,291351
+2016,Ohio,4,Republican,210227,309208
+2016,Ohio,5,Republican,244599,344991
+2016,Ohio,6,Republican,213975,302755
+2016,Ohio,7,Republican,198221,309553
+2016,Ohio,8,Republican,223833,325506
+2016,Ohio,9,Democrat,193966,282398
+2016,Ohio,10,Republican,215724,336602
+2016,Ohio,11,Democrat,242917,302686
+2016,Ohio,12,Republican,251266,377534
+2016,Ohio,13,Democrat,208610,308004
+2016,Ohio,14,Republican,219191,350269
+2016,Ohio,15,Republican,222847,336807
+2016,Ohio,16,Republican,225794,345624
+2016,Oklahoma,1,Republican,1,1
+2016,Oklahoma,2,Republican,189839,268870
+2016,Oklahoma,3,Republican,227525,290615
+2016,Oklahoma,4,Republican,204143,293189
+2016,Oklahoma,5,Republican,160184,280570
+2016,Oregon,1,Democrat,225391,378095
+2016,Oregon,2,Republican,272952,380739
+2016,Oregon,3,Democrat,274687,382355
+2016,Oregon,4,Democrat,220628,397568
+2016,Oregon,5,Democrat,199505,373108
+2016,Pennsylvania,1,Democrat,245791,299010
+2016,Pennsylvania,2,Democrat,322514,357645
+2016,Pennsylvania,3,Republican,244893,244893
+2016,Pennsylvania,4,Republican,220628,334000
+2016,Pennsylvania,5,Republican,206761,307843
+2016,Pennsylvania,6,Republican,207469,362469
+2016,Pennsylvania,7,Republican,225678,379502
+2016,Pennsylvania,8,Republican,207263,380818
+2016,Pennsylvania,9,Republican,186580,294565
+2016,Pennsylvania,10,Republican,211282,301105
+2016,Pennsylvania,11,Republican,199421,313221
+2016,Pennsylvania,12,Republican,221851,359204
+2016,Pennsylvania,13,Democrat,239316,239316
+2016,Pennsylvania,14,Democrat,255293,343292
+2016,Pennsylvania,15,Republican,190618,326474
+2016,Pennsylvania,16,Republican,168669,313773
+2016,Pennsylvania,17,Democrat,157734,293164
+2016,Pennsylvania,18,Republican,293684,293684
+2016,Rhode Island,1,Democrat,130534,202371
+2016,Rhode Island,2,Democrat,133108,229148
+2016,South Carolina,1,Republican,190410,325170
+2016,South Carolina,2,Republican,183746,304996
+2016,South Carolina,3,Republican,196325,269540
+2016,South Carolina,4,Republican,198648,295670
+2016,South Carolina,5,Republican,161669,273006
+2016,South Carolina,6,Democrat,177947,253901
+2016,South Carolina,7,Republican,176468,289463
+2016,South Dakota,0,Republican,237163,369973
+2016,Tennessee,1,Republican,198293,253025
+2016,Tennessee,2,Republican,212455,280856
+2016,Tennessee,3,Republican,176613,266006
+2016,Tennessee,4,Republican,165796,254937
+2016,Tennessee,5,Democrat,171111,273544
+2016,Tennessee,6,Republican,202234,284490
+2016,Tennessee,7,Republican,200407,277513
+2016,Tennessee,8,Republican,194386,282733
+2016,Tennessee,9,Democrat,171631,217957
+2016,Texas,1,Republican,192434,260409
+2016,Texas,2,Republican,168692,278236
+2016,Texas,3,Republican,193684,316467
+2016,Texas,4,Republican,216643,246220
+2016,Texas,5,Republican,155469,192875
+2016,Texas,6,Republican,159444,273296
+2016,Texas,7,Republican,143542,255533
+2016,Texas,8,Republican,236379,236379
+2016,Texas,9,Democrat,152032,188523
+2016,Texas,10,Republican,179221,312600
+2016,Texas,11,Republican,201871,225548
+2016,Texas,12,Republican,196482,283115
+2016,Texas,13,Republican,199050,221242
+2016,Texas,14,Republican,160631,259685
+2016,Texas,15,Democrat,101712,177479
+2016,Texas,16,Democrat,150228,175229
+2016,Texas,17,Republican,149417,245728
+2016,Texas,18,Democrat,150157,204308
+2016,Texas,19,Republican,176314,203475
+2016,Texas,20,Democrat,149640,187669
+2016,Texas,21,Republican,202967,356031
+2016,Texas,22,Republican,181864,305543
+2016,Texas,23,Republican,110577,228965
+2016,Texas,24,Republican,154845,275635
+2016,Texas,25,Republican,180988,310196
+2016,Texas,26,Republican,211730,319080
+2016,Texas,27,Republican,142251,230580
+2016,Texas,28,Democrat,122086,184442
+2016,Texas,29,Democrat,95649,131982
+2016,Texas,30,Democrat,170502,218826
+2016,Texas,31,Republican,166060,284588
+2016,Texas,32,Republican,162868,229171
+2016,Texas,33,Democrat,93147,126369
+2016,Texas,34,Democrat,104638,166961
+2016,Texas,35,Democrat,124612,197576
+2016,Texas,36,Republican,193675,218565
+2016,Utah,1,Republican,182925,277451
+2016,Utah,2,Republican,170524,276819
+2016,Utah,3,Republican,209589,285305
+2016,Utah,4,Republican,147597,274569
+2016,Vermont,0,Democrat,264414,320467
+2016,Virginia,1,Republican,230213,384601
+2016,Virginia,2,Republican,190475,310567
+2016,Virginia,3,Democrat,208337,312340
+2016,Virginia,4,Democrat,200136,346656
+2016,Virginia,5,Republican,207758,356756
+2016,Virginia,6,Republican,225471,338409
+2016,Virginia,7,Republican,218057,379163
+2016,Virginia,8,Democrat,246653,360676
+2016,Virginia,9,Republican,212838,310314
+2016,Virginia,10,Republican,210791,400083
+2016,Virginia,11,Democrat,247818,282003
+2016,Washington,1,Democrat,193619,349398
+2016,Washington,2,Democrat,208314,325408
+2016,Washington,3,Republican,193457,313277
+2016,Washington,4,Republican,132517,229919
+2016,Washington,5,Republican,192959,323534
+2016,Washington,6,Democrat,201718,327834
+2016,Washington,7,Democrat,212010,378754
+2016,Washington,8,Republican,193145,320865
+2016,Washington,9,Democrat,205165,281482
+2016,Washington,10,Democrat,170460,290564
+2016,West Virginia,1,Republican,163469,237003
+2016,West Virginia,2,Republican,140807,242014
+2016,West Virginia,3,Republican,140741,207332
+2016,Wisconsin,1,Republican,230072,354245
+2016,Wisconsin,2,Democrat,273537,398060
+2016,Wisconsin,3,Democrat,257401,260370
+2016,Wisconsin,4,Democrat,220181,286909
+2016,Wisconsin,5,Republican,260706,390844
+2016,Wisconsin,6,Republican,204147,357183
+2016,Wisconsin,7,Republican,223418,362271
+2016,Wisconsin,8,Republican,227892,363780
+2016,Wyoming,0,Republican,156176,258788
+2018,Alabama,1,Republican,153228,242617
+2018,Alabama,2,Republican,138879,226230
+2018,Alabama,3,Republican,147770,231915
+2018,Alabama,4,Republican,184255,230969
+2018,Alabama,5,Republican,159063,260673
+2018,Alabama,6,Republican,192542,278328
+2018,Alabama,7,Democrat,185010,189163
+2018,Alaska,0,Republican,149779,282166
+2018,Arizona,1,Democrat,143240,266089
+2018,Arizona,2,Democrat,161000,294152
+2018,Arizona,3,Democrat,114650,179518
+2018,Arizona,4,Republican,188842,277035
+2018,Arizona,5,Republican,186037,313064
+2018,Arizona,6,Republican,173140,313699
+2018,Arizona,7,Democrat,113044,132051
+2018,Arizona,8,Republican,168835,304417
+2018,Arizona,9,Democrat,159583,261245
+2018,Arkansas,1,Republican,138757,201245
+2018,Arkansas,2,Republican,132125,253453
+2018,Arkansas,3,Republican,148717,229708
+2018,Arkansas,4,Republican,136740,204892
+2018,California,1,Republican,160046,291594
+2018,California,2,Democrat,243081,315657
+2018,California,3,Democrat,134875,232251
+2018,California,4,Republican,184401,340654
+2018,California,5,Democrat,205860,261018
+2018,California,6,Democrat,162411,201939
+2018,California,7,Democrat,155016,281617
+2018,California,8,Republican,102415,170785
+2018,California,9,Democrat,113414,200763
+2018,California,10,Democrat,115945,221900
+2018,California,11,Democrat,204369,275681
+2018,California,12,Democrat,275292,317072
+2018,California,13,Democrat,260580,294837
+2018,California,14,Democrat,211384,266823
+2018,California,15,Democrat,177989,243929
+2018,California,16,Democrat,82266,142959
+2018,California,17,Democrat,159105,211162
+2018,California,18,Democrat,225142,302238
+2018,California,19,Democrat,162496,220319
+2018,California,20,Democrat,183677,225721
+2018,California,21,Democrat,57239,113616
+2018,California,22,Republican,117243,222379
+2018,California,23,Republican,131113,205774
+2018,California,24,Democrat,166550,284431
+2018,California,25,Democrat,133209,245022
+2018,California,26,Democrat,158216,255426
+2018,California,27,Democrat,160504,202636
+2018,California,28,Democrat,196662,250934
+2018,California,29,Democrat,124697,154692
+2018,California,30,Democrat,191573,260993
+2018,California,31,Democrat,110143,187495
+2018,California,32,Democrat,121759,177031
+2018,California,33,Democrat,219091,312860
+2018,California,34,Democrat,110195,151906
+2018,California,35,Democrat,103420,149024
+2018,California,36,Democrat,122169,207008
+2018,California,37,Democrat,210555,236378
+2018,California,38,Democrat,139188,202156
+2018,California,39,Democrat,126002,244393
+2018,California,40,Democrat,93938,121449
+2018,California,41,Democrat,108227,166248
+2018,California,42,Republican,131040,231932
+2018,California,43,Democrat,152272,196052
+2018,California,44,Democrat,97944,143322
+2018,California,45,Democrat,158906,305289
+2018,California,46,Democrat,102278,147916
+2018,California,47,Democrat,143354,221036
+2018,California,48,Democrat,157837,294736
+2018,California,49,Democrat,166453,295030
+2018,California,50,Republican,134362,259810
+2018,California,51,Democrat,109527,153828
+2018,California,52,Democrat,188992,296007
+2018,California,53,Democrat,185667,268794
+2018,Colorado,1,Democrat,272886,369693
+2018,Colorado,2,Democrat,259608,430614
+2018,Colorado,3,Republican,173205,336189
+2018,Colorado,4,Republican,224038,369582
+2018,Colorado,5,Republican,184002,322645
+2018,Colorado,6,Democrat,187639,346817
+2018,Colorado,7,Democrat,204260,338006
+2018,Connecticut,1,Democrat,166155,274140
+2018,Connecticut,2,Democrat,167659,289114
+2018,Connecticut,3,Democrat,163211,270239
+2018,Connecticut,4,Democrat,168726,275651
+2018,Connecticut,5,Democrat,142901,270664
+2018,Delaware,0,Democrat,227353,352737
+2018,Florida,1,Republican,216189,322388
+2018,Florida,2,Republican,199335,295568
+2018,Florida,3,Republican,176616,306496
+2018,Florida,4,Republican,248420,381249
+2018,Florida,5,Democrat,180527,270326
+2018,Florida,6,Republican,187891,333649
+2018,Florida,7,Democrat,183113,317398
+2018,Florida,8,Republican,218112,360527
+2018,Florida,9,Democrat,172172,296737
+2018,Florida,10,Democrat,1,1
+2018,Florida,11,Republican,239395,367506
+2018,Florida,12,Republican,194564,334918
+2018,Florida,13,Democrat,182717,316971
+2018,Florida,14,Democrat,1,1
+2018,Florida,15,Republican,151380,285532
+2018,Florida,16,Republican,197483,361946
+2018,Florida,17,Republican,193326,310520
+2018,Florida,18,Republican,185905,342359
+2018,Florida,19,Republican,211465,339607
+2018,Florida,20,Democrat,202659,202824
+2018,Florida,21,Democrat,1,1
+2018,Florida,22,Democrat,184634,297683
+2018,Florida,23,Democrat,161611,276366
+2018,Florida,24,Democrat,1,1
+2018,Florida,25,Republican,128672,212845
+2018,Florida,26,Democrat,119797,235475
+2018,Florida,27,Democrat,130743,252586
+2018,Georgia,1,Republican,144741,250683
+2018,Georgia,2,Democrat,136699,229171
+2018,Georgia,3,Republican,191996,293006
+2018,Georgia,4,Democrat,227717,288809
+2018,Georgia,5,Democrat,275406,275406
+2018,Georgia,6,Democrat,160139,317014
+2018,Georgia,7,Republican,140430,280441
+2018,Georgia,8,Republican,198152,198152
+2018,Georgia,9,Republican,224661,282573
+2018,Georgia,10,Republican,190396,302735
+2018,Georgia,11,Republican,191887,310540
+2018,Georgia,12,Republican,148986,250489
+2018,Georgia,13,Democrat,223157,292917
+2018,Georgia,14,Republican,175743,229724
+2018,Hawaii,1,Democrat,134650,184211
+2018,Hawaii,2,Democrat,153271,198121
+2018,Idaho,1,Republican,197719,315069
+2018,Idaho,2,Republican,170274,280655
+2018,Illinois,1,Democrat,189560,257885
+2018,Illinois,2,Democrat,190684,235251
+2018,Illinois,3,Democrat,163053,223334
+2018,Illinois,4,Democrat,143895,166189
+2018,Illinois,5,Democrat,213992,279131
+2018,Illinois,6,Democrat,169001,315446
+2018,Illinois,7,Democrat,215746,246243
+2018,Illinois,8,Democrat,130054,197127
+2018,Illinois,9,Democrat,213368,290351
+2018,Illinois,10,Democrat,156540,238664
+2018,Illinois,11,Democrat,145407,227765
+2018,Illinois,12,Republican,134884,261543
+2018,Illinois,13,Republican,136516,270981
+2018,Illinois,14,Democrat,156035,297199
+2018,Illinois,15,Republican,181294,255608
+2018,Illinois,16,Republican,151254,255825
+2018,Illinois,17,Democrat,142659,229749
+2018,Illinois,18,Republican,195927,291413
+2018,Indiana,1,Democrat,159611,245209
+2018,Indiana,2,Republican,125499,228889
+2018,Indiana,3,Republican,158927,245537
+2018,Indiana,4,Republican,156539,244363
+2018,Indiana,5,Republican,180035,317177
+2018,Indiana,6,Republican,154260,241726
+2018,Indiana,7,Democrat,141139,217596
+2018,Indiana,8,Republican,157396,244291
+2018,Indiana,9,Republican,153271,271361
+2018,Iowa,1,Democrat,170342,334243
+2018,Iowa,2,Democrat,171446,312913
+2018,Iowa,3,Democrat,175642,356241
+2018,Iowa,4,Republican,157676,313251
+2018,Kansas,1,Republican,153082,224640
+2018,Kansas,2,Republican,126098,264688
+2018,Kansas,3,Democrat,170518,318301
+2018,Kansas,4,Republican,144248,242693
+2018,Kentucky,1,Republican,172167,251016
+2018,Kentucky,2,Republican,171700,257345
+2018,Kentucky,3,Democrat,173002,278720
+2018,Kentucky,4,Republican,162946,261812
+2018,Kentucky,5,Republican,172093,218017
+2018,Kentucky,6,Republican,154468,302888
+2018,Louisiana,1,Republican,192555,269325
+2018,Louisiana,2,Democrat,190182,235982
+2018,Louisiana,3,Republican,136876,245943
+2018,Louisiana,4,Republican,139326,216872
+2018,Louisiana,5,Republican,149018,223946
+2018,Louisiana,6,Republican,186553,268525
+2018,Maine,1,Democrat,201195,342053
+2018,Maine,2,Democrat,139231,281371
+2018,Maryland,1,Republican,183662,306132
+2018,Maryland,2,Democrat,167201,253302
+2018,Maryland,3,Democrat,202407,292880
+2018,Maryland,4,Democrat,209642,268583
+2018,Maryland,5,Democrat,213796,304209
+2018,Maryland,6,Democrat,163346,276974
+2018,Maryland,7,Democrat,202345,264710
+2018,Maryland,8,Democrat,217679,319330
+2018,Massachusetts,1,Democrat,211790,216900
+2018,Massachusetts,2,Democrat,191332,284893
+2018,Massachusetts,3,Democrat,173175,279327
+2018,Massachusetts,4,Democrat,245289,251016
+2018,Massachusetts,5,Democrat,236243,311324
+2018,Massachusetts,6,Democrat,217703,333975
+2018,Massachusetts,7,Democrat,216559,220411
+2018,Massachusetts,8,Democrat,259159,263307
+2018,Massachusetts,9,Democrat,192347,323928
+2018,Michigan,1,Republican,187251,332497
+2018,Michigan,2,Republican,168970,305463
+2018,Michigan,3,Republican,169107,310740
+2018,Michigan,4,Republican,178510,285050
+2018,Michigan,5,Democrat,164502,276413
+2018,Michigan,6,Republican,147436,293438
+2018,Michigan,7,Republican,158730,295060
+2018,Michigan,8,Democrat,172880,341593
+2018,Michigan,9,Democrat,181734,304563
+2018,Michigan,10,Republican,182808,303064
+2018,Michigan,11,Democrat,181912,350901
+2018,Michigan,12,Democrat,200588,294628
+2018,Michigan,13,Democrat,165355,196299
+2018,Michigan,14,Democrat,214334,264994
+2018,Minnesota,1,Republican,146200,291661
+2018,Minnesota,2,Other,177958,337968
+2018,Minnesota,3,Other,202404,363949
+2018,Minnesota,4,Other,216865,328614
+2018,Minnesota,5,Other,267703,343358
+2018,Minnesota,6,Republican,192931,315726
+2018,Minnesota,7,Other,146672,281509
+2018,Minnesota,8,Republican,159364,314211
+2018,Mississippi,1,Republican,158245,236521
+2018,Mississippi,2,Democrat,158921,221379
+2018,Mississippi,3,Republican,160284,257271
+2018,Mississippi,4,Republican,152633,223732
+2018,Missouri,1,Democrat,219781,274375
+2018,Missouri,2,Republican,192477,376066
+2018,Missouri,3,Republican,211243,324608
+2018,Missouri,4,Republican,190138,293316
+2018,Missouri,5,Democrat,175019,283785
+2018,Missouri,6,Republican,199796,305409
+2018,Missouri,7,Republican,196343,296455
+2018,Missouri,8,Republican,194042,264399
+2018,Montana,0,Republican,256661,504421
+2018,Nebraska,1,Republican,141712,234781
+2018,Nebraska,2,Republican,126715,248485
+2018,Nebraska,3,Republican,163650,213304
+2018,Nevada,1,Democrat,100707,152201
+2018,Nevada,2,Republican,167435,287537
+2018,Nevada,3,Democrat,148501,286168
+2018,Nevada,4,Democrat,121962,234868
+2018,New Hampshire,1,Democrat,155884,291039
+2018,New Hampshire,2,Democrat,155358,279705
+2018,New Jersey,1,Democrat,169628,263418
+2018,New Jersey,2,Democrat,136685,258363
+2018,New Jersey,3,Democrat,153473,306875
+2018,New Jersey,4,Republican,163065,294348
+2018,New Jersey,5,Democrat,169546,301823
+2018,New Jersey,6,Democrat,140752,221195
+2018,New Jersey,7,Democrat,166985,322742
+2018,New Jersey,8,Democrat,119881,153455
+2018,New Jersey,9,Democrat,140832,200416
+2018,New Jersey,10,Democrat,175253,200159
+2018,New Jersey,11,Democrat,183684,323574
+2018,New Jersey,12,Democrat,173334,252375
+2018,New Mexico,1,Democrat,147336,249162
+2018,New Mexico,2,Democrat,101489,199256
+2018,New Mexico,3,Democrat,155201,244893
+2018,New York,1,Democrat,124213,270053
+2018,New York,2,Republican,112565,241217
+2018,New York,3,Democrat,149937,267062
+2018,New York,4,Democrat,156728,260206
+2018,New York,5,Democrat,160500,161471
+2018,New York,6,Democrat,104293,123421
+2018,New York,7,Democrat,134125,157302
+2018,New York,8,Democrat,170850,191567
+2018,New York,9,Democrat,167269,203423
+2018,New York,10,Democrat,162131,210958
+2018,New York,11,Democrat,96850,192173
+2018,New York,12,Democrat,205858,251877
+2018,New York,13,Democrat,171341,190688
+2018,New York,14,Democrat,110318,141204
+2018,New York,15,Democrat,122007,129751
+2018,New York,16,Democrat,172815,183356
+2018,New York,17,Democrat,159923,193841
+2018,New York,18,Democrat,126368,251690
+2018,New York,19,Democrat,135582,287986
+2018,New York,20,Democrat,161330,266014
+2018,New York,21,Republican,116433,235267
+2018,New York,22,Democrat,116001,251212
+2018,New York,23,Republican,114722,240374
+2018,New York,24,Democrat,115902,260477
+2018,New York,25,Democrat,147979,270120
+2018,New York,26,Democrat,156968,230663
+2018,New York,27,Democrat,128167,285300
+2018,North Carolina,1,Democrat,190457,272675
+2018,North Carolina,2,Republican,170072,331704
+2018,North Carolina,3,Republican,187901,187901
+2018,North Carolina,4,Democrat,247067,341403
+2018,North Carolina,5,Republican,159917,280385
+2018,North Carolina,6,Republican,160709,284360
+2018,North Carolina,7,Republican,156809,282312
+2018,North Carolina,8,Republican,141402,255521
+2018,North Carolina,9,Republican,139246,282717
+2018,North Carolina,10,Republican,164969,278228
+2018,North Carolina,11,Republican,178012,300666
+2018,North Carolina,12,Democrat,203974,279138
+2018,North Carolina,13,Republican,147570,286316
+2018,North Dakota,0,Republican,193568,321532
+2018,Ohio,1,Republican,154409,300871
+2018,Ohio,2,Republican,166714,289661
+2018,Ohio,3,Democrat,181575,246677
+2018,Ohio,4,Republican,167993,257405
+2018,Ohio,5,Republican,176569,283617
+2018,Ohio,6,Republican,172774,249490
+2018,Ohio,7,Republican,153117,260653
+2018,Ohio,8,Republican,173852,261133
+2018,Ohio,9,Democrat,157219,231937
+2018,Ohio,10,Republican,157554,281726
+2018,Ohio,11,Democrat,206138,250660
+2018,Ohio,12,Republican,175677,341647
+2018,Ohio,13,Democrat,153323,251370
+2018,Ohio,14,Republican,169809,307358
+2018,Ohio,15,Republican,170593,292443
+2018,Ohio,16,Republican,170029,299710
+2018,Oklahoma,1,Republican,150129,253171
+2018,Oklahoma,2,Republican,140451,216002
+2018,Oklahoma,3,Republican,172913,234065
+2018,Oklahoma,4,Republican,149227,236638
+2018,Oklahoma,5,Democrat,121149,238960
+2018,Oregon,1,Democrat,231198,363249
+2018,Oregon,2,Republican,207597,368709
+2018,Oregon,3,Democrat,279019,384326
+2018,Oregon,4,Democrat,208710,372893
+2018,Oregon,5,Democrat,197187,358469
+2018,Pennsylvania,1,Republican,169053,329798
+2018,Pennsylvania,2,Democrat,159600,201982
+2018,Pennsylvania,3,Democrat,287610,307997
+2018,Pennsylvania,4,Democrat,211524,332991
+2018,Pennsylvania,5,Democrat,198639,304714
+2018,Pennsylvania,6,Democrat,177704,301828
+2018,Pennsylvania,7,Democrat,140813,263261
+2018,Pennsylvania,8,Democrat,135603,248166
+2018,Pennsylvania,9,Republican,148723,248927
+2018,Pennsylvania,10,Republican,149365,291033
+2018,Pennsylvania,11,Republican,163708,277584
+2018,Pennsylvania,12,Republican,161047,243872
+2018,Pennsylvania,13,Republican,178533,253266
+2018,Pennsylvania,14,Republican,151386,261437
+2018,Pennsylvania,15,Republican,165245,243572
+2018,Pennsylvania,16,Republican,135348,262396
+2018,Pennsylvania,17,Democrat,183162,325579
+2018,Pennsylvania,18,Democrat,231472,231472
+2018,Rhode Island,1,Democrat,116099,174083
+2018,Rhode Island,2,Democrat,126476,199197
+2018,South Carolina,1,Democrat,145455,287433
+2018,South Carolina,2,Republican,144642,257139
+2018,South Carolina,3,Republican,153338,226204
+2018,South Carolina,4,Republican,145321,243950
+2018,South Carolina,5,Republican,141757,248579
+2018,South Carolina,6,Democrat,144765,206433
+2018,South Carolina,7,Republican,142681,239554
+2018,South Dakota,0,Republican,202446,335471
+2018,Tennessee,1,Republican,172835,224282
+2018,Tennessee,2,Republican,172856,262134
+2018,Tennessee,3,Republican,156512,245765
+2018,Tennessee,4,Republican,147323,232451
+2018,Tennessee,5,Democrat,177923,262248
+2018,Tennessee,6,Republican,172810,248740
+2018,Tennessee,7,Republican,170071,254384
+2018,Tennessee,8,Republican,168030,248345
+2018,Tennessee,9,Democrat,145139,181476
+2018,Texas,1,Republican,168165,232720
+2018,Texas,2,Republican,139188,263392
+2018,Texas,3,Republican,169520,312511
+2018,Texas,4,Republican,188667,249245
+2018,Texas,5,Republican,130617,209507
+2018,Texas,6,Republican,135961,256042
+2018,Texas,7,Democrat,127959,243601
+2018,Texas,8,Republican,200619,273170
+2018,Texas,9,Democrat,136256,153001
+2018,Texas,10,Republican,157166,307827
+2018,Texas,11,Republican,176603,220377
+2018,Texas,12,Republican,172557,268491
+2018,Texas,13,Republican,169027,207285
+2018,Texas,14,Republican,138942,234528
+2018,Texas,15,Democrat,98333,164802
+2018,Texas,16,Democrat,124437,181754
+2018,Texas,17,Republican,134841,237351
+2018,Texas,18,Democrat,138704,184332
+2018,Texas,19,Republican,151946,201985
+2018,Texas,20,Democrat,139038,171963
+2018,Texas,21,Republican,177654,353617
+2018,Texas,22,Republican,152750,297405
+2018,Texas,23,Republican,103285,210069
+2018,Texas,24,Republican,133317,263418
+2018,Texas,25,Republican,163023,304553
+2018,Texas,26,Republican,185551,312505
+2018,Texas,27,Republican,125118,207421
+2018,Texas,28,Democrat,117494,139226
+2018,Texas,29,Democrat,88188,117494
+2018,Texas,30,Democrat,166784,183174
+2018,Texas,31,Republican,144680,286007
+2018,Texas,32,Democrat,144067,275620
+2018,Texas,33,Democrat,90805,119224
+2018,Texas,34,Democrat,85825,143068
+2018,Texas,35,Democrat,138278,194067
+2018,Texas,36,Republican,161048,221956
+2018,Utah,1,Republican,156692,254333
+2018,Utah,2,Republican,151489,270044
+2018,Utah,3,Republican,174856,258858
+2018,Utah,4,Democrat,134964,269271
+2018,Vermont,0,Democrat,188547,272451
+2018,Virginia,1,Republican,183250,332101
+2018,Virginia,2,Democrat,139571,273400
+2018,Virginia,3,Democrat,198615,217722
+2018,Virginia,4,Democrat,187642,299854
+2018,Virginia,5,Republican,165339,310926
+2018,Virginia,6,Republican,167957,281377
+2018,Virginia,7,Democrat,176079,349803
+2018,Virginia,8,Democrat,247137,324748
+2018,Virginia,9,Republican,160933,246980
+2018,Virginia,10,Democrat,206356,367795
+2018,Virginia,11,Democrat,219191,308250
+2018,Washington,1,Democrat,197209,332743
+2018,Washington,2,Democrat,210187,294833
+2018,Washington,3,Republican,161819,307226
+2018,Washington,4,Republican,141551,225336
+2018,Washington,5,Republican,175422,320347
+2018,Washington,6,Democrat,206409,323086
+2018,Washington,7,Democrat,329800,394681
+2018,Washington,8,Democrat,164089,313057
+2018,Washington,9,Democrat,163345,240567
+2018,Washington,10,Democrat,166215,270075
+2018,West Virginia,1,Republican,127997,198214
+2018,West Virginia,2,Republican,110504,204792
+2018,West Virginia,3,Republican,98645,174985
+2018,Wisconsin,1,Republican,177492,325317
+2018,Wisconsin,2,Democrat,309116,317295
+2018,Wisconsin,3,Democrat,187888,314989
+2018,Wisconsin,4,Democrat,206487,273087
+2018,Wisconsin,5,Republican,225619,364288
+2018,Wisconsin,6,Republican,180311,325065
+2018,Wisconsin,7,Republican,194061,322840
+2018,Wisconsin,8,Republican,209410,328774
+2018,Wyoming,0,Republican,127963,201245
