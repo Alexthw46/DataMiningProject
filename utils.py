@@ -42,3 +42,23 @@ def sturges_bins(dataframe, column):
     N = dataframe[column].dropna().count()  # Count non-null values in the specified column
     k = int(np.ceil(np.log2(N) + 1))
     return k
+
+
+# silhouette score
+from sklearn.metrics import silhouette_score
+# sse / ch index
+from sklearn.metrics import calinski_harabasz_score
+
+
+def calculate_silhouette_scores(data, km_labels, max_clusters=8):
+    silhouette_scores = []
+    for i in range(2, max_clusters + 1):
+        silhouette_scores.append(silhouette_score(data, km_labels[i - 2]))
+    return silhouette_scores
+
+
+def calculate_ch_index(data, km_labels, max_clusters=8):
+    ch_index_scores = []
+    for i in range(2, max_clusters + 1):
+        ch_index_scores.append(calinski_harabasz_score(data, km_labels[i - 2]))
+    return ch_index_scores
