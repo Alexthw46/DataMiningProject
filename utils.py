@@ -14,9 +14,9 @@ def clean_age(x):
     try:
         converted = int(x)
     except (ValueError, TypeError):
-        return pd.NA  # Set a default value for non-convertible or missing values
+        return np.nan  # Set a default value for non-convertible or missing values
     if (converted < 0) or (converted > 115):
-        return pd.NA
+        return np.nan
     return converted
 
 
@@ -24,7 +24,7 @@ def to_int(x):
     try:
         converted = int(x)
     except (ValueError, TypeError):
-        return pd.NA  # Set a default value for non-convertible or missing values
+        return np.nan  # Set a default value for non-convertible or missing values
     return converted
 
 
@@ -32,9 +32,9 @@ def non_negative_int(x):
     try:
         converted = int(x)
     except (ValueError, TypeError):
-        return pd.NA  # Set a default value for non-convertible or missing values
+        return np.nan  # Set a default value for non-convertible or missing values
     if converted < 0:
-        return pd.NA
+        return np.nan
     return converted
 
 
@@ -48,7 +48,6 @@ def sturges_bins(dataframe, column):
 from sklearn.metrics import silhouette_score
 # sse / ch index
 from sklearn.metrics import calinski_harabasz_score
-
 
 def calculate_silhouette_scores(data, km_labels, max_clusters=8):
     silhouette_scores = []
