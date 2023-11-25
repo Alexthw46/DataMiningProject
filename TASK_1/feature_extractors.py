@@ -169,26 +169,3 @@ def involved_to_voters(df, df3):
     df = df.merge(involved_voters, how='outer')
 
     return df
-
-
-def kill_to_gun(df, df5):
-    kills_to_gun = pd.DataFrame()
-
-    for x in df['year'].unique():  # Iterating through unique years in the DataFrame
-        for y in df['month'].unique():  # Iterating through unique months in the DataFrame
-            incidents = df[(df['year'] == x) & (df['month'] == y)]
-            temp = incidents.groupby('state', as_index=False).agg(n_killed=('n_killed', 'sum'))
-
-            state_kills = temp[['state', 'n_killed']]
-            state_kills['year'] = x
-            state_kills['month'] = y
-
-            gun_ownership = df5[df5['year'] == x]
-            temp = pd.merge(state_kills, gun_ownership, how='inner')
-            kills_to_gun = pd.concat([kills_to_gun, temp])
-
-    kills_to_gun['kill_to_gun'] = kills_to_gun['n_killed'] / (kills_to_gun['HFR'] * 100)
-    kills_to_gun.drop(columns=['n_killed', 'HFR', 'universl', 'permit'], inplace=True)
-
-    df = df.merge(kills_to_gun, how='outer')
-    return df

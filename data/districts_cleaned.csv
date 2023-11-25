@@ -1,4 +1,439 @@
 year,state,congressional_district,party,candidatevotes,totalvotes
+2012,Alabama,1,Republican,196374,200676
+2012,Alabama,2,Republican,180591,283953
+2012,Alabama,3,Republican,175306,273930
+2012,Alabama,4,Republican,199071,269118
+2012,Alabama,5,Republican,189185,291293
+2012,Alabama,6,Republican,219262,308102
+2012,Alabama,7,Democrat,232520,306558
+2012,Alaska,0,Republican,185296,289804
+2012,Arizona,1,Democrat,122774,251595
+2012,Arizona,2,Democrat,147338,292279
+2012,Arizona,3,Democrat,98468,168698
+2012,Arizona,4,Republican,162907,243760
+2012,Arizona,5,Republican,183470,273059
+2012,Arizona,6,Republican,179706,293177
+2012,Arizona,7,Democrat,104489,127827
+2012,Arizona,8,Republican,172809,272791
+2012,Arizona,9,Democrat,121881,250131
+2012,Arkansas,1,Republican,138800,246843
+2012,Arkansas,2,Republican,158175,286598
+2012,Arkansas,3,Republican,186467,245660
+2012,Arkansas,4,Republican,154149,258953
+2012,California,1,Republican,168827,294213
+2012,California,2,Democrat,226216,317526
+2012,California,3,Democrat,126882,233968
+2012,California,4,Republican,197803,323688
+2012,California,5,Democrat,202872,272417
+2012,California,6,Democrat,160667,214073
+2012,California,7,Democrat,141241,273291
+2012,California,8,Republican,103093,179644
+2012,California,9,Democrat,118373,213077
+2012,California,10,Republican,110265,209199
+2012,California,11,Democrat,200743,287879
+2012,California,12,Democrat,253709,298187
+2012,California,13,Democrat,250436,288582
+2012,California,14,Democrat,203828,258283
+2012,California,15,Democrat,120388,231034
+2012,California,16,Democrat,84649,147450
+2012,California,17,Democrat,159392,216728
+2012,California,18,Democrat,212831,301934
+2012,California,19,Democrat,162300,221613
+2012,California,20,Democrat,172996,233562
+2012,California,21,Republican,67164,116283
+2012,California,22,Republican,132386,213941
+2012,California,23,Republican,158161,216003
+2012,California,24,Democrat,156749,284495
+2012,California,25,Republican,129593,236575
+2012,California,26,Democrat,139072,263935
+2012,California,27,Democrat,154191,241008
+2012,California,28,Democrat,188703,246711
+2012,California,29,Democrat,111287,150281
+2012,California,30,Democrat,149456,247851
+2012,California,31,Republican,88964,161219
+2012,California,32,Democrat,124903,190111
+2012,California,33,Democrat,171860,318520
+2012,California,34,Democrat,120367,140590
+2012,California,35,Democrat,79698,142680
+2012,California,36,Democrat,110189,208142
+2012,California,37,Democrat,207039,239580
+2012,California,38,Democrat,145280,215087
+2012,California,39,Republican,145607,251967
+2012,California,40,Democrat,73940,125553
+2012,California,41,Democrat,103578,175652
+2012,California,42,Republican,130245,214947
+2012,California,43,Democrat,143123,200894
+2012,California,44,Democrat,99909,165898
+2012,California,45,Republican,171417,293231
+2012,California,46,Democrat,95694,149815
+2012,California,47,Democrat,130093,230012
+2012,California,48,Republican,177144,290502
+2012,California,49,Republican,159725,274618
+2012,California,50,Republican,174838,258293
+2012,California,51,Democrat,113934,159398
+2012,California,52,Democrat,151451,295910
+2012,California,53,Democrat,164825,268307
+2012,Colorado,1,Democrat,237579,348210
+2012,Colorado,2,Democrat,234758,421580
+2012,Colorado,3,Republican,185291,347247
+2012,Colorado,4,Republican,200006,342336
+2012,Colorado,5,Republican,199639,307231
+2012,Colorado,6,Republican,163938,342914
+2012,Colorado,7,Democrat,182460,340970
+2012,Connecticut,1,Democrat,192840,297061
+2012,Connecticut,2,Democrat,189444,298960
+2012,Connecticut,3,Democrat,197163,291301
+2012,Connecticut,4,Democrat,167320,293432
+2012,Connecticut,5,Democrat,137631,284757
+2012,Delaware,0,Democrat,249933,388059
+2012,Florida,1,Republican,238440,342594
+2012,Florida,2,Republican,175856,333718
+2012,Florida,3,Republican,204331,315669
+2012,Florida,4,Republican,239988,315470
+2012,Florida,5,Democrat,190472,269153
+2012,Florida,6,Republican,195962,342451
+2012,Florida,7,Republican,185518,316010
+2012,Florida,8,Republican,205432,348909
+2012,Florida,9,Democrat,164891,263747
+2012,Florida,10,Republican,164649,318269
+2012,Florida,11,Republican,218360,338663
+2012,Florida,12,Republican,209604,330167
+2012,Florida,13,Republican,189605,329347
+2012,Florida,14,Democrat,197121,280601
+2012,Florida,15,Republican,1,1
+2012,Florida,16,Republican,187147,349076
+2012,Florida,17,Republican,165488,282266
+2012,Florida,18,Democrat,166257,330665
+2012,Florida,19,Republican,189833,306216
+2012,Florida,20,Democrat,214727,244285
+2012,Florida,21,Democrat,221263,284400
+2012,Florida,22,Democrat,171021,313071
+2012,Florida,23,Democrat,174205,275430
+2012,Florida,24,Democrat,1,1
+2012,Florida,25,Republican,151466,200229
+2012,Florida,26,Democrat,135694,252957
+2012,Florida,27,Republican,138488,230171
+2012,Georgia,1,Republican,157181,249580
+2012,Georgia,2,Democrat,162751,255161
+2012,Georgia,3,Republican,232380,232380
+2012,Georgia,4,Democrat,208861,283902
+2012,Georgia,5,Democrat,234330,277665
+2012,Georgia,6,Republican,189669,294034
+2012,Georgia,7,Republican,156689,252066
+2012,Georgia,8,Republican,197789,197789
+2012,Georgia,9,Republican,192101,252153
+2012,Georgia,10,Republican,211065,211065
+2012,Georgia,11,Republican,196968,287321
+2012,Georgia,12,Democrat,139148,259121
+2012,Georgia,13,Democrat,201988,281538
+2012,Georgia,14,Republican,159947,219192
+2012,Hawaii,1,Democrat,116505,217876
+2012,Hawaii,2,Democrat,168503,219283
+2012,Idaho,1,Republican,199402,316724
+2012,Idaho,2,Republican,207412,318494
+2012,Illinois,1,Democrat,236854,320844
+2012,Illinois,2,Democrat,188303,297712
+2012,Illinois,3,Democrat,168738,246398
+2012,Illinois,4,Democrat,133226,160509
+2012,Illinois,5,Democrat,177729,270377
+2012,Illinois,6,Republican,193138,326129
+2012,Illinois,7,Democrat,242439,286435
+2012,Illinois,8,Democrat,123206,225066
+2012,Illinois,9,Democrat,194869,293807
+2012,Illinois,10,Democrat,133890,264454
+2012,Illinois,11,Democrat,148928,254295
+2012,Illinois,12,Democrat,157000,303949
+2012,Illinois,13,Republican,137034,294385
+2012,Illinois,14,Republican,177603,301954
+2012,Illinois,15,Republican,205775,299937
+2012,Illinois,16,Republican,181789,294090
+2012,Illinois,17,Democrat,153519,288161
+2012,Illinois,18,Republican,244467,329631
+2012,Indiana,1,Democrat,187743,279034
+2012,Indiana,2,Republican,134033,273475
+2012,Indiana,3,Republican,187872,280235
+2012,Indiana,4,Republican,168688,272268
+2012,Indiana,5,Republican,194570,333359
+2012,Indiana,6,Republican,162613,275253
+2012,Indiana,7,Democrat,162122,257950
+2012,Indiana,8,Republican,151533,283992
+2012,Indiana,9,Republican,165332,298180
+2012,Iowa,1,Democrat,222422,390849
+2012,Iowa,2,Democrat,211863,381275
+2012,Iowa,3,Republican,202000,386842
+2012,Iowa,4,Republican,200063,377883
+2012,Kansas,1,Republican,211337,211337
+2012,Kansas,2,Republican,167463,293718
+2012,Kansas,3,Republican,201087,293762
+2012,Kansas,4,Republican,161094,258922
+2012,Kentucky,1,Republican,199956,287155
+2012,Kentucky,2,Republican,181508,282267
+2012,Kentucky,3,Democrat,206385,322656
+2012,Kentucky,4,Republican,186036,299444
+2012,Kentucky,5,Republican,195408,250855
+2012,Kentucky,6,Republican,153222,303000
+2012,Louisiana,1,Republican,193496,290410
+2012,Louisiana,2,Democrat,158501,287354
+2012,Louisiana,3,Republican,139123,311393
+2012,Louisiana,4,Republican,187894,249531
+2012,Louisiana,5,Republican,202536,260216
+2012,Louisiana,6,Republican,243553,306713
+2012,Maine,1,Democrat,236363,380715
+2012,Maine,2,Democrat,191456,343908
+2012,Maryland,1,Republican,214204,337760
+2012,Maryland,2,Democrat,194088,295940
+2012,Maryland,3,Democrat,213747,319859
+2012,Maryland,4,Democrat,240385,311512
+2012,Maryland,5,Democrat,238618,343820
+2012,Maryland,6,Democrat,181921,309549
+2012,Maryland,7,Democrat,247770,323818
+2012,Maryland,8,Democrat,217531,343256
+2012,Massachusetts,1,Democrat,261936,336555
+2012,Massachusetts,2,Democrat,259257,342736
+2012,Massachusetts,3,Democrat,212119,335111
+2012,Massachusetts,4,Democrat,221303,373114
+2012,Massachusetts,5,Democrat,257490,364201
+2012,Massachusetts,6,Democrat,180942,389852
+2012,Massachusetts,7,Democrat,210794,285134
+2012,Massachusetts,8,Democrat,263999,371694
+2012,Massachusetts,9,Democrat,212754,385799
+2012,Michigan,1,Republican,167060,347037
+2012,Michigan,2,Republican,194653,318267
+2012,Michigan,3,Republican,171675,326283
+2012,Michigan,4,Republican,197386,312949
+2012,Michigan,5,Democrat,214531,330146
+2012,Michigan,6,Republican,174955,320475
+2012,Michigan,7,Republican,169668,318069
+2012,Michigan,8,Republican,202217,345054
+2012,Michigan,9,Democrat,208846,337316
+2012,Michigan,10,Republican,226075,328612
+2012,Michigan,11,Republican,181788,358139
+2012,Michigan,12,Democrat,216884,319223
+2012,Michigan,13,Democrat,235336,284270
+2012,Michigan,14,Democrat,270450,328792
+2012,Minnesota,1,Democrat,193211,335880
+2012,Minnesota,2,Republican,193587,358446
+2012,Minnesota,3,Republican,222335,382705
+2012,Minnesota,4,Democrat,216685,347991
+2012,Minnesota,5,Democrat,262102,351969
+2012,Minnesota,6,Republican,179240,355153
+2012,Minnesota,7,Democrat,197791,327576
+2012,Minnesota,8,Other,191976,353663
+2012,Mississippi,1,Republican,186760,309177
+2012,Mississippi,2,Democrat,214978,320244
+2012,Mississippi,3,Republican,234717,293322
+2012,Mississippi,4,Republican,182998,285432
+2012,Missouri,1,Democrat,267927,340583
+2012,Missouri,2,Republican,236971,394448
+2012,Missouri,3,Republican,214843,338385
+2012,Missouri,4,Republican,192237,318723
+2012,Missouri,5,Democrat,200290,330942
+2012,Missouri,6,Republican,216906,333688
+2012,Missouri,7,Republican,203565,318740
+2012,Missouri,8,Republican,216083,300391
+2012,Montana,0,Republican,255468,479740
+2012,Nebraska,1,Republican,174889,256095
+2012,Nebraska,2,Republican,133964,263731
+2012,Nebraska,3,Republican,187423,252689
+2012,Nevada,1,Democrat,113967,179278
+2012,Nevada,2,Republican,162213,281449
+2012,Nevada,3,Republican,137244,272523
+2012,Nevada,4,Democrat,120501,240492
+2012,New Hampshire,1,Democrat,171650,345022
+2012,New Hampshire,2,Democrat,169275,337394
+2012,New Jersey,1,Democrat,210470,308519
+2012,New Jersey,2,Republican,166677,289069
+2012,New Jersey,3,Republican,174253,324399
+2012,New Jersey,4,Republican,195145,306247
+2012,New Jersey,5,Republican,167501,304371
+2012,New Jersey,6,Democrat,151782,239638
+2012,New Jersey,7,Republican,175662,307315
+2012,New Jersey,8,Democrat,130853,167790
+2012,New Jersey,9,Democrat,162822,220133
+2012,New Jersey,10,Democrat,201435,230060
+2012,New Jersey,11,Republican,182237,309859
+2012,New Jersey,12,Democrat,189926,274378
+2012,New Mexico,1,Democrat,162924,275856
+2012,New Mexico,2,Republican,133180,225515
+2012,New Mexico,3,Democrat,167103,264719
+2012,New York,1,Democrat,134205,294578
+2012,New York,2,Republican,116083,271832
+2012,New York,3,Democrat,146016,306274
+2012,New York,4,Democrat,152590,299484
+2012,New York,5,Democrat,167835,224508
+2012,New York,6,Democrat,107505,186932
+2012,New York,7,Democrat,132456,178825
+2012,New York,8,Democrat,178687,236292
+2012,New York,9,Democrat,178168,238957
+2012,New York,10,Democrat,155908,236323
+2012,New York,11,Republican,91030,214755
+2012,New York,12,Democrat,184864,268287
+2012,New York,13,Democrat,170470,233172
+2012,New York,14,Democrat,116117,170995
+2012,New York,15,Democrat,150243,178645
+2012,New York,16,Democrat,173885,270320
+2012,New York,17,Democrat,161624,297379
+2012,New York,18,Democrat,132456,295436
+2012,New York,19,Republican,122654,305882
+2012,New York,20,Democrat,181092,317678
+2012,New York,21,Democrat,117856,268741
+2012,New York,22,Republican,145042,280189
+2012,New York,23,Republican,117641,279796
+2012,New York,24,Democrat,133908,303567
+2012,New York,25,Democrat,168761,322760
+2012,New York,26,Democrat,195234,304961
+2012,New York,27,Democrat,140008,329768
+2012,North Carolina,1,Democrat,254644,338066
+2012,North Carolina,2,Republican,174066,311397
+2012,North Carolina,3,Republican,195571,309885
+2012,North Carolina,4,Democrat,259534,348485
+2012,North Carolina,5,Republican,200945,349197
+2012,North Carolina,6,Republican,222116,364583
+2012,North Carolina,7,Democrat,168695,336736
+2012,North Carolina,8,Republican,160695,302280
+2012,North Carolina,9,Republican,194537,375690
+2012,North Carolina,10,Republican,190826,334849
+2012,North Carolina,11,Republican,190319,331426
+2012,North Carolina,12,Democrat,247591,310908
+2012,North Carolina,13,Republican,210495,370610
+2012,North Dakota,0,Republican,173585,316224
+2012,Ohio,1,Republican,201907,349716
+2012,Ohio,2,Republican,194296,331373
+2012,Ohio,3,Democrat,201897,295652
+2012,Ohio,4,Republican,182643,312998
+2012,Ohio,5,Republican,201514,351878
+2012,Ohio,6,Republican,164536,308980
+2012,Ohio,7,Republican,178104,315812
+2012,Ohio,8,Republican,246378,248316
+2012,Ohio,9,Democrat,217771,298164
+2012,Ohio,10,Republican,208201,349671
+2012,Ohio,11,Democrat,258359,258359
+2012,Ohio,12,Republican,233869,368474
+2012,Ohio,13,Democrat,235492,323612
+2012,Ohio,14,Republican,183657,339894
+2012,Ohio,15,Republican,205274,333462
+2012,Ohio,16,Republican,185165,355765
+2012,Oklahoma,1,Republican,181084,285312
+2012,Oklahoma,2,Republican,143701,250612
+2012,Oklahoma,3,Republican,201744,268003
+2012,Oklahoma,4,Republican,176740,260331
+2012,Oklahoma,5,Republican,153603,261677
+2012,Oregon,1,Democrat,197845,331980
+2012,Oregon,2,Republican,228043,332255
+2012,Oregon,3,Democrat,264979,355875
+2012,Oregon,4,Democrat,212866,360088
+2012,Oregon,5,Democrat,177229,327970
+2012,Pennsylvania,1,Democrat,235394,277102
+2012,Pennsylvania,2,Democrat,318176,356386
+2012,Pennsylvania,3,Republican,165826,302514
+2012,Pennsylvania,4,Republican,181603,303980
+2012,Pennsylvania,5,Republican,177740,282465
+2012,Pennsylvania,6,Republican,191725,335528
+2012,Pennsylvania,7,Republican,209942,353451
+2012,Pennsylvania,8,Republican,199379,352238
+2012,Pennsylvania,9,Republican,169177,274305
+2012,Pennsylvania,10,Republican,179563,273790
+2012,Pennsylvania,11,Republican,166967,285198
+2012,Pennsylvania,12,Republican,175352,338941
+2012,Pennsylvania,13,Democrat,209901,303819
+2012,Pennsylvania,14,Democrat,251932,327634
+2012,Pennsylvania,15,Republican,168960,297724
+2012,Pennsylvania,16,Republican,156192,284781
+2012,Pennsylvania,17,Democrat,161393,267601
+2012,Pennsylvania,18,Republican,216727,338873
+2012,Rhode Island,1,Democrat,108612,205115
+2012,Rhode Island,2,Democrat,124067,222660
+2012,South Carolina,1,Republican,179908,290013
+2012,South Carolina,2,Republican,196116,203718
+2012,South Carolina,3,Republican,169512,254763
+2012,South Carolina,4,Republican,173201,266884
+2012,South Carolina,5,Republican,154324,278003
+2012,South Carolina,6,Democrat,218717,233615
+2012,South Carolina,7,Republican,153068,275738
+2012,South Dakota,0,Republican,207640,361429
+2012,Tennessee,1,Republican,182252,239672
+2012,Tennessee,2,Republican,196894,264505
+2012,Tennessee,3,Republican,157830,256909
+2012,Tennessee,4,Republican,128568,230590
+2012,Tennessee,5,Democrat,171621,263095
+2012,Tennessee,6,Republican,184383,241241
+2012,Tennessee,7,Republican,182730,257306
+2012,Tennessee,8,Republican,190923,279422
+2012,Tennessee,9,Democrat,188422,250987
+2012,Texas,1,Republican,178322,249658
+2012,Texas,2,Republican,159664,246328
+2012,Texas,3,Republican,187180,187180
+2012,Texas,4,Republican,182679,250343
+2012,Texas,5,Republican,134091,208230
+2012,Texas,6,Republican,145019,249936
+2012,Texas,7,Republican,142793,234837
+2012,Texas,8,Republican,194043,251052
+2012,Texas,9,Democrat,144075,183566
+2012,Texas,10,Republican,159783,264019
+2012,Texas,11,Republican,177742,226023
+2012,Texas,12,Republican,175649,247712
+2012,Texas,13,Republican,187775,206388
+2012,Texas,14,Republican,131460,245839
+2012,Texas,15,Democrat,89296,146661
+2012,Texas,16,Democrat,101403,155005
+2012,Texas,17,Republican,143284,179262
+2012,Texas,18,Democrat,146223,194932
+2012,Texas,19,Republican,163239,192063
+2012,Texas,20,Democrat,119032,186177
+2012,Texas,21,Republican,187015,308865
+2012,Texas,22,Republican,160668,250911
+2012,Texas,23,Democrat,96676,192169
+2012,Texas,24,Republican,148586,243489
+2012,Texas,25,Republican,154245,263932
+2012,Texas,26,Republican,176642,258723
+2012,Texas,27,Republican,120684,212651
+2012,Texas,28,Democrat,112456,165645
+2012,Texas,29,Democrat,86053,95611
+2012,Texas,30,Democrat,171059,217014
+2012,Texas,31,Republican,145348,237187
+2012,Texas,32,Republican,146653,251636
+2012,Texas,33,Democrat,85114,117375
+2012,Texas,34,Democrat,89606,144778
+2012,Texas,35,Democrat,105626,165179
+2012,Texas,36,Republican,165405,233832
+2012,Utah,1,Republican,175487,245528
+2012,Utah,2,Republican,154523,248545
+2012,Utah,3,Republican,198828,259547
+2012,Utah,4,Democrat,119803,245277
+2012,Vermont,0,Democrat,208600,289931
+2012,Virginia,1,Republican,200845,356806
+2012,Virginia,2,Republican,166231,309222
+2012,Virginia,3,Democrat,259199,318936
+2012,Virginia,4,Republican,199292,350046
+2012,Virginia,5,Republican,193009,348111
+2012,Virginia,6,Republican,211278,323893
+2012,Virginia,7,Republican,222983,381909
+2012,Virginia,8,Democrat,226847,351187
+2012,Virginia,9,Republican,184882,301658
+2012,Virginia,10,Republican,214038,366444
+2012,Virginia,11,Democrat,202606,332243
+2012,Washington,1,Democrat,177025,328212
+2012,Washington,2,Democrat,184826,302291
+2012,Washington,3,Republican,177446,293884
+2012,Washington,4,Republican,154749,233689
+2012,Washington,5,Republican,191066,308578
+2012,Washington,6,Democrat,186661,316386
+2012,Washington,7,Democrat,298368,374580
+2012,Washington,8,Republican,180204,302090
+2012,Washington,9,Democrat,192034,268139
+2012,Washington,10,Democrat,163036,278417
+2012,West Virginia,1,Republican,133809,214151
+2012,West Virginia,2,Republican,158206,226766
+2012,West Virginia,3,Democrat,108199,200437
+2012,Wisconsin,1,Republican,200423,365058
+2012,Wisconsin,2,Democrat,265422,390898
+2012,Wisconsin,3,Democrat,217712,339764
+2012,Wisconsin,4,Democrat,235257,325788
+2012,Wisconsin,5,Republican,250335,369664
+2012,Wisconsin,6,Republican,223460,359745
+2012,Wisconsin,7,Republican,201720,359669
+2012,Wisconsin,8,Republican,198874,355464
+2012,Wyoming,0,Republican,166452,250700
 2014,Alabama,1,Republican,103758,152234
 2014,Alabama,2,Republican,113103,167952
 2014,Alabama,3,Republican,103558,156620

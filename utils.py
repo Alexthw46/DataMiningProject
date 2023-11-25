@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 
 def group_parties(x, parties=['Republican', 'Democrat', 'Other']):
@@ -48,6 +47,7 @@ def sturges_bins(dataframe, column):
 from sklearn.metrics import silhouette_score
 # sse / ch index
 from sklearn.metrics import calinski_harabasz_score
+
 
 def calculate_silhouette_scores(data, km_labels, max_clusters=8):
     silhouette_scores = []
