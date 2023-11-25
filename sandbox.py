@@ -1,6 +1,7 @@
-import numpy as np
 import pandas as pd
-from utils import *
+
+from TASK_1.utils import *
+
 
 # Old version of data cleaning and stuff, likely to not work with current methods
 def clean_incidents(incidents):
