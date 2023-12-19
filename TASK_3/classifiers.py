@@ -1,5 +1,5 @@
-import multiprocessing
-
+import keras as k
+from keras import Sequential
 from sklearn.model_selection import GridSearchCV
 
 
@@ -16,3 +16,17 @@ def grid_search(classifier, X, y, parameters, folds=None, print_res=True):
         print(cvs.best_score_)
 
     return cvs.best_score_, cvs.best_estimator_
+
+
+def keras_mlp(train_X, train_y, val_X, val_y, optimizer, activation, dropout, epochs):
+    neuralNet = Sequential(
+        [
+            k.Input(shape=13),
+            k.layers.Dense(units=50, activation=activation),
+            k.layers.Dense(units=25, activation=activation),
+            k.layers.Dropout(dropout),
+            k.layers.Dense(1, "sigmoid")
+        ]
+    )
+    neuralNet.compile(optimizer=optimizer, loss=k.losses.BinaryCrossentropy(), metrics=['accuracy'])
+    return neuralNet.fit(train_X, train_y, epochs=epochs, verbose=2, validation_data=(val_X, val_y))
