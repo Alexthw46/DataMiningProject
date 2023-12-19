@@ -19,7 +19,7 @@ def grid_search(classifier, X, y, parameters, folds=None, print_res=True):
 
 
 def keras_mlp(train_X, train_y, val_X, val_y, optimizer, activation, dropout, epochs):
-    neuralNet = Sequential(
+    neural_net = Sequential(
         [
             k.Input(shape=13),
             k.layers.Dense(units=50, activation=activation),
@@ -28,5 +28,5 @@ def keras_mlp(train_X, train_y, val_X, val_y, optimizer, activation, dropout, ep
             k.layers.Dense(1, "sigmoid")
         ]
     )
-    neuralNet.compile(optimizer=optimizer, loss=k.losses.BinaryCrossentropy(), metrics=['accuracy'])
-    return neuralNet.fit(train_X, train_y, epochs=epochs, verbose=2, validation_data=(val_X, val_y))
+    neural_net.compile(optimizer=optimizer, loss=k.losses.BinaryCrossentropy(), metrics=['accuracy'])
+    return neural_net.fit(train_X, train_y, epochs=epochs, verbose=2, validation_data=(val_X, val_y))
