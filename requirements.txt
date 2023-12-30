@@ -7,3 +7,5 @@ seaborn==0.13.0
 
 keras~=2.15.0
 tensorflow~=2.15.0
+
+matrixprofile-ts~=0.0.9
