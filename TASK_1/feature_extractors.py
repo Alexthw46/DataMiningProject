@@ -47,6 +47,7 @@ def average_participants(df):
     avg_participants = df.groupby('state')['n_participants'].transform('mean')
     df['avg_participants'] = avg_participants
     df['par_to_average'] = df['n_participants'] / df['avg_participants']
+    df = df.drop(columns=['avg_participants'])
     return df
 
 
