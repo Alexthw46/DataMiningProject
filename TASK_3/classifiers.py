@@ -2,9 +2,11 @@ import os
 import warnings
 
 import keras as k
+import matplotlib.pyplot as plt
 from keras import Sequential
 from keras.src.utils.version_utils import callbacks
 from sklearn.exceptions import ConvergenceWarning
+from sklearn.metrics import roc_curve, roc_auc_score
 from sklearn.model_selection import GridSearchCV
 
 
@@ -25,6 +27,42 @@ def grid_search(classifier, X, y, parameters, folds=5, print_res=True):
 
     return cvs.best_score_, cvs.best_estimator_
 
+
+def plot_roc_curve(y_true, y_probs, label='ROC curve'):
+    # Compute ROC curve
+    fpr, tpr, thresholds = roc_curve(y_true, y_probs)
+
+    # Compute ROC AUC score
+    roc_auc = roc_auc_score(y_true, y_probs)
+
+    # Plot ROC curve
+    plt.figure(figsize=(8, 6))
+    plt.plot(fpr, tpr, color='blue', lw=2, label='{} (AUC = {:.2f})'.format(label, roc_auc))
+    plt.plot([0, 1], [0, 1], color='gray', linestyle='--')
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title(label + ' ROC curve')
+    plt.legend(loc='lower right')
+    plt.show()
+
+
+def plot_roc_curves(y_true, score_label):
+    # Plot ROC curve
+    plt.figure(figsize=(8, 6))
+
+    for y_probs, label in score_label:
+        fpr, tpr, thresholds = roc_curve(y_true, y_probs)
+
+        # Compute ROC AUC score
+        roc_auc = roc_auc_score(y_true, y_probs)
+
+        plt.plot(fpr, tpr, lw=2, label='{} (AUC = {:.2f})'.format(label, roc_auc))
+
+    plt.plot([0, 1], [0, 1], color='gray', linestyle='--')
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.legend(loc='lower right')
+    plt.show()
 
 def keras_mlp(train_X, train_y, val_X, val_y, optimizer, activation, dropout, epochs):
     neural_net = Sequential(
