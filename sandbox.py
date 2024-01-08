@@ -1,6 +1,6 @@
 import pandas as pd
 
-from TASK_1.utils import *
+from DM_15_TASK1.utils import *
 
 
 # Old version of data cleaning and stuff, likely to not work with current methods
